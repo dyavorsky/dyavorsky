@@ -1,5 +1,5 @@
 <h1 align="center">Dan Yavorsky</h1>
-<h3 align="center">Trying to be a good human  &middot;  Learning all the things</h3>
+<h3 align="center">Statistical programming &middot; Trying to be a good human  &middot;  Learning all the things</h3>
 
 <p align="center"> 
   <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="icons/rstudio-color.svg" alt="R" width="40" height="40"/> </a> 
