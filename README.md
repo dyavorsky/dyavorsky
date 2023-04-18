@@ -16,6 +16,6 @@
   <a href="https://scholar.google.com/citations?user=E2qzlUYAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="icons/googlescholar-color.svg" alt="GoogleScholar" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyavorsky&show_icons=true&locale=en&layout=compact" alt="dyavorsky" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyavorsky&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="dyavorsky" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyavorsky&show_icons=true&locale=en" alt="dyavorsky" /></p>
