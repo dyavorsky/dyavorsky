@@ -5,7 +5,6 @@
   <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="icons/rstudio-color.svg" alt="R" width="40" height="40"/> </a> 
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="icons/julia-color.svg" alt="Julia" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python-color.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="icons/latex-color.svg" alt="Latex" width="40" height="40"/> </a>  
 </p>
 
 <p align="center"> 
