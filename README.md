@@ -8,11 +8,11 @@
 </p>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/dyavorsky/" target="_blank" rel="noreferrer"> <img src="icons/linkedin-color.svg" alt="LinkedIn" width="40" height="40"/> </a> 
-  <a href="https://twitter.com/dyavorsky" target="_blank" rel="noreferrer"> <img src="icons/twitter-color.svg" alt="Twitter" width="40" height="40"/> </a> 
-  <a href="https://fosstodon.org/@dyavorsky" target="_blank" rel="noreferrer"> <img src="icons/mastodon-color.svg" alt="Mastodon" width="40" height="40"/> </a> 
-  <a href="https://stackoverflow.com/users/4573108/dany" target="_blank" rel="noreferrer"> <img src="icons/stackoverflow-color.svg" alt="StackOverflow" width="40" height="40"/> </a> 
-  <a href="https://scholar.google.com/citations?user=E2qzlUYAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="icons/googlescholar-color.svg" alt="GoogleScholar" width="40" height="40"/> </a> 
+  <a href="https://www.linkedin.com/in/dyavorsky/" target="_blank" rel="noreferrer"> <img src="icons/linkedin-color.svg" alt="LinkedIn" width="25" height="25"/> </a> 
+  <a href="https://twitter.com/dyavorsky" target="_blank" rel="noreferrer"> <img src="icons/twitter-color.svg" alt="Twitter" width="25" height="25"/> </a> 
+  <a href="https://fosstodon.org/@dyavorsky" target="_blank" rel="noreferrer"> <img src="icons/mastodon-color.svg" alt="Mastodon" width="25" height="25"/> </a> 
+  <a href="https://stackoverflow.com/users/4573108/dany" target="_blank" rel="noreferrer"> <img src="icons/stackoverflow-color.svg" alt="StackOverflow" width="25" height="25"/> </a> 
+  <a href="https://scholar.google.com/citations?user=E2qzlUYAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="icons/googlescholar-color.svg" alt="GoogleScholar" width="25" height="25"/> </a> 
 </p>
 
 <!-- currently not working, so I temporarily disabled
